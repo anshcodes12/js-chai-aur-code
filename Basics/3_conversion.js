@@ -25,4 +25,9 @@ let stringSomeNumber = String(someNumber)
 console.log(typeof stringSomeNumber);
 console.log(stringSomeNumber);
 
+//COMMAND + K + U (uncomment command)
+
 //Investigation study is Best approach to study the code
+
+
+
